@@ -2,7 +2,7 @@
 
 Here some examples on FileUpload and ViewPort design using Cypress.
 
-## Browser View Port Example
+## Testing Browser View Port Example
 
 ```
 // <reference types="Cypress" />
@@ -42,7 +42,7 @@ context("Window", () => {
 ```
 
 
-## File Upload Example
+## Testing File Upload Example
 ```
 
 import "cypress-file-upload";
