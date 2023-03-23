@@ -59,5 +59,9 @@ describe("Fil;e Upload test", function () {
 });
 
 ```
+To run the application please type the following:
 
+```
+./node_modules/cypress/bin/cypress open
+```
 
